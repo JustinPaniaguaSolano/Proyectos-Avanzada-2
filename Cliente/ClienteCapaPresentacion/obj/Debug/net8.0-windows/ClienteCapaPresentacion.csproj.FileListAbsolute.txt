@@ -1,0 +1,46 @@
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaPresentacion.exe
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaPresentacion.deps.json
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaPresentacion.runtimeconfig.json
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaPresentacion.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaPresentacion.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.csproj.GenerateResource.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.AssemblyInfoInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.AssemblyInfo.cs
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.csproj.CoreCompileInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\refint\ClienteCapaPresentacion.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.genruntimeconfig.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ref\ClienteCapaPresentacion.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.FrmMenuCliente.resources
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.csproj.AssemblyReference.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteC.9DF7225E.Up2Date
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FrmPedidos.resources
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.FrmConsultas.resources
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaPresentacion.exe
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaPresentacion.deps.json
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaPresentacion.runtimeconfig.json
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaPresentacion.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaPresentacion.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\bin\Debug\net8.0-windows\ClienteCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.csproj.AssemblyReference.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.FrmConsultas.resources
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.FrmMenuCliente.resources
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\CapaPresentacion.FrmPedidos.resources
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.csproj.GenerateResource.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.AssemblyInfoInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.AssemblyInfo.cs
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.csproj.CoreCompileInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteC.9DF7225E.Up2Date
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\refint\ClienteCapaPresentacion.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ClienteCapaPresentacion.genruntimeconfig.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\Cliente\ClienteCapaPresentacion\obj\Debug\net8.0-windows\ref\ClienteCapaPresentacion.dll
