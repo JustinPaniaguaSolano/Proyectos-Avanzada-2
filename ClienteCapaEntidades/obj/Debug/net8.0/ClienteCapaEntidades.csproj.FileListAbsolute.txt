@@ -1,0 +1,22 @@
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\bin\Debug\net8.0\ClienteCapaEntidades.deps.json
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\bin\Debug\net8.0\ClienteCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\bin\Debug\net8.0\ClienteCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.AssemblyInfoInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.AssemblyInfo.cs
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.csproj.CoreCompileInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\refint\ClienteCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ref\ClienteCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\bin\Debug\net8.0\ClienteCapaEntidades.deps.json
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\bin\Debug\net8.0\ClienteCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\bin\Debug\net8.0\ClienteCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.AssemblyInfoInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.AssemblyInfo.cs
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.csproj.CoreCompileInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\refint\ClienteCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ClienteCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ClienteCapaEntidades\obj\Debug\net8.0\ref\ClienteCapaEntidades.dll

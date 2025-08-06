@@ -1,0 +1,24 @@
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\bin\Debug\net8.0\ServidorCapaEntidades.deps.json
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\bin\Debug\net8.0\ServidorCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\bin\Debug\net8.0\ServidorCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.csproj.AssemblyReference.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.AssemblyInfoInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.AssemblyInfo.cs
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.csproj.CoreCompileInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\refint\ServidorCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ref\ServidorCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\bin\Debug\net8.0\ServidorCapaEntidades.deps.json
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\bin\Debug\net8.0\ServidorCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\bin\Debug\net8.0\ServidorCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.csproj.AssemblyReference.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.AssemblyInfoInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.AssemblyInfo.cs
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.csproj.CoreCompileInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\refint\ServidorCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ServidorCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaEntidades\obj\Debug\net8.0\ref\ServidorCapaEntidades.dll
