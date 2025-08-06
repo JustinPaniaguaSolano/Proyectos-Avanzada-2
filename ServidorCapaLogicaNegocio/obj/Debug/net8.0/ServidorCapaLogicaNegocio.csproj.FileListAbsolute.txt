@@ -1,0 +1,34 @@
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaLogicaNegocio.deps.json
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaLogicaNegocio.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaLogicaNegocio.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaAccesoDatos.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaAccesoDatos.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.csproj.AssemblyReference.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.AssemblyInfoInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.AssemblyInfo.cs
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\Servidor.55E8B569.Up2Date
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\refint\ServidorCapaLogicaNegocio.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ref\ServidorCapaLogicaNegocio.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaLogicaNegocio.deps.json
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaLogicaNegocio.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaLogicaNegocio.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaAccesoDatos.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaEntidades.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaAccesoDatos.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\bin\Debug\net8.0\ServidorCapaEntidades.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.csproj.AssemblyReference.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.AssemblyInfoInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.AssemblyInfo.cs
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\Servidor.55E8B569.Up2Date
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\refint\ServidorCapaLogicaNegocio.dll
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ServidorCapaLogicaNegocio.pdb
+D:\U\00830 PROGRAMACION AVANZADA\PROYECTO 2\Proyecto 2 Justin Paniagua Solano\Proyecto 2-Justin Paniagua Solano\ServidorCapaLogicaNegocio\obj\Debug\net8.0\ref\ServidorCapaLogicaNegocio.dll
